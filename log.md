@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 26, 2021 (Example 1)
+### Day 0: April 26, 2021 (Hello World Web App)
 
 **Today's Progress**: Created a small REST "Hello World" Web App
 
