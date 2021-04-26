@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: April 26, 2021 (Example 1)
-##### (delete me or comment me out)
 
 **Today's Progress**: Created a small REST "Hello World" Web App
 
