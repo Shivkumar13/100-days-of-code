@@ -7,7 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [April 26th , Monday, 2021].
 ### R1D1 
 Started a REST Hello World Web App, using Golang.
 
-###R1D2
+### R1D2
 Added a contact page and used If-Else to render the pages on the basis of requests. Also made use of ResponseWriter for Path.
 
 
