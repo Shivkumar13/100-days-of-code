@@ -7,3 +7,9 @@
 **Thoughts:** It looked challenging at the start but really it was a great learning when I digged into it, I got to know how we can leverage the rich golang libraries, I came to know more about the "net/http" package in this exercise.
 
 **Link to work:** [Hello World Web App] https://github.com/Shivkumar13/GoREST/blob/main/main.go
+
+### Day 1: April 27, 2021 (Added Contact Page to the simple web app)
+
+**Today's Progress**: Added Contact Page to the simple web app, made use of net/http package.
+
+****Thoughts:** I was not sure about the ResponseWriter usage much, but after some research was able to get the rendered page working in the web app.
