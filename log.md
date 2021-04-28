@@ -13,3 +13,9 @@
 **Today's Progress**: Added Contact Page to the simple web app, made use of net/http package.
 
 ****Thoughts:** I was not sure about the ResponseWriter usage much, but after some research was able to get the rendered page working in the web app.
+
+### Day 2: April 28, 2021 (Added 404 Page & implemented httprouter)
+
+**Today's Progress**: Added 404 Page & implemented httprouter, made use oof third party library to implement router
+
+****Thoughts:** Struggled with the httprouter (3rd party library), will explore more on it.
