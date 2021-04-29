@@ -24,4 +24,4 @@
 
 **Today's Progress**: Added FAQ Page and used github.com/gorilla/mux library". 
 
-****Thoughts:** Explored more on the MUX library, initially evrything I implemented was with the net/http library but today I changed code to use more of MUX library!
+****Thoughts:** Explored more on the MUX library, initially evrything I implemented was with the net/http library but today I changed code to use more of MUX library.
