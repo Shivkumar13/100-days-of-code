@@ -12,3 +12,6 @@ Added a contact page and used If-Else to render the pages on the basis of reques
 
 ### R1D3
 Made use of httprouter library, and implemented a router, also added a 404 page in the application, hence if someone hits wrong Path 404 page will get displayed.
+
+### R1D4
+Added FAQ Page and used github.com/gorilla/mux library. Explored more on the MUX library, initially evrything I implemented was with the net/http library but today I changed code to use more of MUX library.
