@@ -19,3 +19,9 @@
 **Today's Progress**: Added 404 Page & implemented httprouter, made use oof third party library to implement router
 
 ****Thoughts:** Struggled with the httprouter (3rd party library), will explore more on it.
+
+### Day 3: April 29, 2021 (Added FAQ Page and used github.com/gorilla/mux library")
+
+**Today's Progress**: Added FAQ Page and used github.com/gorilla/mux library". 
+
+****Thoughts:** Explored more on the MUX library, initially evrything I implemented was with the net/http library but today I changed code to use more of MUX library.
