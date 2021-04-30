@@ -25,3 +25,10 @@
 **Today's Progress**: Added FAQ Page and used github.com/gorilla/mux library". 
 
 ****Thoughts:** Explored more on the MUX library, initially evrything I implemented was with the net/http library but today I changed code to use more of MUX library.
+
+
+### Day 4: April 30, 2021 (Started a New Web App REST API in Go)
+
+**Today's Progress**: Created a brand new Books Web application in Go, used various libraries like log, encoding/json. 
+
+****Thoughts:** Explored Slice concept in Go, I was not known with its usage at start. Also I am not 100% confident on all the concepts used today so I need to go through each and every library's concept/methods/function in depth to see it's other possible usages.
