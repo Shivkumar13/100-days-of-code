@@ -32,3 +32,13 @@
 **Today's Progress**: Created a brand new Books Web application in Go, used various libraries like log, encoding/json. 
 
 ****Thoughts:** Explored Slice concept in Go, I was not known with its usage at start. Also I am not 100% confident on all the concepts used today so I need to go through each and every library's concept/methods/function in depth to see it's other possible usages.
+
+
+### Day 5: May 1, 2021 (Added Create, Update, Delete Handlers)
+
+**Today's Progress**: Added Create, Update, Delete Handlers to the REST API. Made use of Math/rand and strconv.
+
+****Thoughts:** Struggled a bit today with the new libraries. Added Create, Update, Delete Handlers to the REST API. Made use of Math/rand and strconv which are pretty new for me.
+
+
+
