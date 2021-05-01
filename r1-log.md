@@ -18,3 +18,6 @@ Added FAQ Page and used github.com/gorilla/mux library. Explored more on the MUX
 
 ### R1D4
 Created a brand new Books App REST API in Go. Used encoding/json, log, various libraries. Also Added getBooks(), getBook() functions as of now. Will be adding for create update and delete in coming days.
+
+### R1D5
+Added Create, Update, Delete Handlers to the REST API. Made use of Math/rand and strconv. I will be exploring on these topics when I will start to learn these individual libraries.
