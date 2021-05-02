@@ -40,5 +40,11 @@
 
 ****Thoughts:** Struggled a bit today with the new libraries. Added Create, Update, Delete Handlers to the REST API. Made use of Math/rand and strconv which are pretty new for me.
 
+### Day 5: May 2, 2021 (Learned about For statement in depth)
+
+**Today's Progress**: Learned about For statement in depth, explored For usage.
+
+****Thoughts:** I needed to get clarifications on the FOR so took time and learned that. Now pretty much confident on the For, nested-for, and other types os usage for "FOR clause"
+
 
 
