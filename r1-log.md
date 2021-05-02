@@ -21,3 +21,6 @@ Created a brand new Books App REST API in Go. Used encoding/json, log, various l
 
 ### R1D5
 Added Create, Update, Delete Handlers to the REST API. Made use of Math/rand and strconv. I will be exploring on these topics when I will start to learn these individual libraries.
+
+### R1D6
+Learned about For statement in depth, explored For usage.
