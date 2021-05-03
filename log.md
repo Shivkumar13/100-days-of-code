@@ -40,11 +40,17 @@
 
 ****Thoughts:** Struggled a bit today with the new libraries. Added Create, Update, Delete Handlers to the REST API. Made use of Math/rand and strconv which are pretty new for me.
 
-### Day 5: May 2, 2021 (Learned about For statement in depth)
+### Day 6: May 2, 2021 (Learned about For statement in depth)
 
 **Today's Progress**: Learned about For statement in depth, explored For usage.
 
 ****Thoughts:** I needed to get clarifications on the FOR so took time and learned that. Now pretty much confident on the For, nested-for, and other types os usage for "FOR clause"
+
+### Day 7: May 3, 2021 (Learned about OOP concepts in Golang)
+
+**Today's Progress**: Got an idea about OOP in golang, as of now tried a small program to implement the OOP in Golang with the usage of structs.
+
+****Thoughts:** Initially I was not recalling the concepts of OOP which I learned in C++, but there are bit differences in the OOP of Golang and C++. So I will be exploring more on these things.
 
 
 
