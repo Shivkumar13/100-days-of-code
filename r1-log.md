@@ -24,3 +24,6 @@ Added Create, Update, Delete Handlers to the REST API. Made use of Math/rand and
 
 ### R1D6
 Learned about For statement in depth, explored For usage.
+
+### R1D7
+Learned about OOP concepts in Golang.
