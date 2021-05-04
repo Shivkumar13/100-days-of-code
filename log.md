@@ -26,7 +26,6 @@
 
 ****Thoughts:** Explored more on the MUX library, initially evrything I implemented was with the net/http library but today I changed code to use more of MUX library.
 
-
 ### Day 4: April 30, 2021 (Started a New Web App REST API in Go)
 
 **Today's Progress**: Created a brand new Books Web application in Go, used various libraries like log, encoding/json. 
@@ -52,5 +51,9 @@
 
 ****Thoughts:** Initially I was not recalling the concepts of OOP which I learned in C++, but there are bit differences in the OOP of Golang and C++. So I will be exploring more on these things.
 
+### Day 8: May 4, 2021 (Learned about Arrays, Slices, Stacks)
 
+**Today's Progress**: Have learned about the Arrays, Slices and basic Stack operations. This was really a fun while learning and I just liked it.
+
+****Thoughts:** I need to learn more operations on these things, as for some concepts of Stack I was not really sure how to deal with, I will explore more on these concepts.
 
