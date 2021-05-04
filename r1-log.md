@@ -27,3 +27,7 @@ Learned about For statement in depth, explored For usage.
 
 ### R1D7
 Learned about OOP concepts in Golang.
+
+### Day 8: 
+Learned about Arrays, Slices, Stacks.  
+
