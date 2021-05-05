@@ -57,3 +57,8 @@
 
 ****Thoughts:** I need to learn more operations on these things, as for some concepts of Stack I was not really sure how to deal with, I will explore more on these concepts.
 
+### Day 9: May 5, 2021 (Tried various examples for yesterdays learning)
+
+**Today's Progress**: Tried different type of examples for yesterday's learning, refered to gobyexample.com
+
+****Thoughts:** Not soo much difficult to learn as basic concepts of Arrays and Slices were good for me.
