@@ -34,4 +34,6 @@ Learned about Arrays, Slices, Stacks.
 ### R1D9 
 Tried different type of examples for yesterday's learning, refered to gobyexample.com
 
+### R1D10
+Day 10: Learned about Maps in Golang. A key-value based data type, need to explore more from it's usage perspective.
 
