@@ -62,3 +62,10 @@
 **Today's Progress**: Tried different type of examples for yesterday's learning, refered to gobyexample.com
 
 ****Thoughts:** Not soo much difficult to learn as basic concepts of Arrays and Slices were good for me.
+
+### Day 10: May 6, 2021 (Learned about Maps in Golang)
+
+**Today's Progress**: Learned about MAps in Golang, how it is different from other data types. Key-value based datatype
+
+****Thoughts:** Was confused with the syntax of it at start, but with practice got to know certain things.
+
