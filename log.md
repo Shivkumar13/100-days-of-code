@@ -69,3 +69,8 @@
 
 ****Thoughts:** Was confused with the syntax of it at start, but with practice got to know certain things.
 
+### Day 11: May 8, 2021 (Was remaining with the operations on Slices, learned that)
+
+**Today's Progress**: Was remaining with the operations on Slices, learned that and did various operations like appending the slice.
+
+****Thoughts:** Slice is really Easy to learn, got much confidence on Arrays and Slices in Go.
