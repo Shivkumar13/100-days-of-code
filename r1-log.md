@@ -40,3 +40,5 @@ Learned about Maps in Golang. A key-value based data type, need to explore more 
 ### R1D11
 Was remaining with the operations on Slices, learned that and did various operations like appending the slice.
 
+### R1D12
+Solved some more operations on slices, also solved some Ninja level tasks from a udemy course.
