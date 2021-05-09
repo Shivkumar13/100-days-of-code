@@ -74,3 +74,9 @@
 **Today's Progress**: Was remaining with the operations on Slices, learned that and did various operations like appending the slice.
 
 ****Thoughts:** Slice is really Easy to learn, got much confidence on Arrays and Slices in Go.
+
+### Day 12: May 9, 2021 (Solved Ninja exercises from Todd mcloed's course and did some more operations on slices)
+
+**Today's Progress**: Solved Ninja exercises from Todd mcloed's course and did some more operations on slices
+
+****Thoughts:** Getting more confidence on basics and slices which will boost me for the future.
