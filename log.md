@@ -80,3 +80,9 @@
 **Today's Progress**: Solved Ninja exercises from Todd mcloed's course and did some more operations on slices
 
 ****Thoughts:** Getting more confidence on basics and slices which will boost me for the future.
+
+### Day 13: May 10, 2021 (All about various operations on Maps)
+
+**Today's Progress**: Did various operations on Maps, adding to a Map, deleting elements  from a Map
+
+****Thoughts:** So easy to learn didn't face any specific problem with Map.
