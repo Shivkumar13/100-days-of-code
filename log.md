@@ -86,3 +86,10 @@
 **Today's Progress**: Did various operations on Maps, adding to a Map, deleting elements  from a Map
 
 ****Thoughts:** So easy to learn didn't face any specific problem with Map.
+
+
+### Day 14: May 11, 2021 (Learned about Structs)
+
+**Today's Progress**: Learned basics of structs, will be doing more operations 
+
+****Thoughts:** So easy to learn didn't face any specific problem with Structs.
