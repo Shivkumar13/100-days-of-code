@@ -93,3 +93,10 @@
 **Today's Progress**: Learned basics of structs, will be doing more operations 
 
 ****Thoughts:** So easy to learn didn't face any specific problem with Structs.
+
+
+### Day 15: May 14, 2021 (Learned more about embedded structs)
+
+**Today's Progress**: Learned basics of embedded structs, also did some basic operations on it. 
+
+****Thoughts:** It was getting confusing when I tried to use the embedded structs but later I was able to understand the things. And how to define and use embedded struct values.
