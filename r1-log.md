@@ -47,5 +47,8 @@ Solved some more operations on slices, also solved some Ninja level tasks from a
 Did various operations on Maps, adding to a Map, deleting elements  from a Map
 
 
-### R1D14:
+### R1D14
 Learned basics of structs, will be doing more operations 
+
+### R1D15
+Learned basics of embedded structs, also did some basic operations on it. 
