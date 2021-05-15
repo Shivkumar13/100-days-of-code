@@ -52,3 +52,7 @@ Learned basics of structs, will be doing more operations
 
 ### R1D15
 Learned basics of embedded structs, also did some basic operations on it. 
+
+### R1D16
+Learned about syntax of Func, tried basic and func with return type and arguments also.
+
