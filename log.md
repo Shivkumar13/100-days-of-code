@@ -100,3 +100,10 @@
 **Today's Progress**: Learned basics of embedded structs, also did some basic operations on it. 
 
 ****Thoughts:** It was getting confusing when I tried to use the embedded structs but later I was able to understand the things. And how to define and use embedded struct values.
+
+
+### Day 16: May 15, 2021 (Functions, explored basic func, also func with arguments)
+
+**Today's Progress**: Learned about syntax of Func, tried basic and func with return type and arguments also
+
+****Thoughts:** Pretty easy to learn because I have worked on Func quite often last days.
