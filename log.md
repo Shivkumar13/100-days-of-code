@@ -107,3 +107,11 @@
 **Today's Progress**: Learned about syntax of Func, tried basic and func with return type and arguments also
 
 ****Thoughts:** Pretty easy to learn because I have worked on Func quite often last days.
+
+
+
+### Day 17: May 16, 2021 (Functions, explored func with multiple return type)
+
+**Today's Progress**: Learned about func with multiple return type 
+
+****Thoughts:** Not so hard to understand, exploring more on it
