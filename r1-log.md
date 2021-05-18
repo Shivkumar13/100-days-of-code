@@ -58,3 +58,7 @@ Learned about syntax of Func, tried basic and func with return type and argument
 
 ### R1D17
 Functions, explored func with multiple return type
+
+### R1D18
+Learned about variadic function, how can we use arbitrary number of parameters to pass to a function.
+
