@@ -109,9 +109,17 @@
 ****Thoughts:** Pretty easy to learn because I have worked on Func quite often last days.
 
 
-
 ### Day 17: May 16, 2021 (Functions, explored func with multiple return type)
 
 **Today's Progress**: Learned about func with multiple return type 
 
 ****Thoughts:** Not so hard to understand, exploring more on it
+
+
+### Day 18: May 18, 2021 (Learned about Variadic functions in Golang)
+
+**Today's Progress**: Learned about variadic function, how can we use arbitrary number of parameters to pass to a function.
+
+****Thoughts:** Primarily it was not getting fit in the mind, but later got to know what;s its usage and why do we use it.
+
+
