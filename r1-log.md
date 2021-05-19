@@ -62,3 +62,5 @@ Functions, explored func with multiple return type
 ### R1D18
 Learned about variadic function, how can we use arbitrary number of parameters to pass to a function.
 
+### R1D19
+Did Ninja exercises on the Variadic Functions in Go, practised the exercises from course outlines.
