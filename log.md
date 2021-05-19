@@ -123,3 +123,8 @@
 ****Thoughts:** Primarily it was not getting fit in the mind, but later got to know what;s its usage and why do we use it.
 
 
+### Day 19: May 19, 2021 (Did Ninja exercises on the Variadic Functions in Go)
+
+**Today's Progress**: Practised the exercises from course outlines
+
+****Thoughts:** Got a feeling that I am missing something while programming a particular code, but yes we need to think and learn, not always all things come to mind while doing code, you have to practise as much as possible.
