@@ -64,3 +64,10 @@ Learned about variadic function, how can we use arbitrary number of parameters t
 
 ### R1D19
 Did Ninja exercises on the Variadic Functions in Go, practised the exercises from course outlines.
+
+### R1D20
+Housekeeping exercises in the Golang, using the Ease of programming approach to make code simpler and easy to read.
+
+### R1D21
+Arrays usages, anonymous structs exercises from the Todd's course.
+
