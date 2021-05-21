@@ -128,3 +128,16 @@
 **Today's Progress**: Practised the exercises from course outlines
 
 ****Thoughts:** Got a feeling that I am missing something while programming a particular code, but yes we need to think and learn, not always all things come to mind while doing code, you have to practise as much as possible.
+
+### Day 20: May 20, 2021 (Have gone through the housekeeping practices for Go)
+
+**Today's Progress**: I learned about how Golang is Easy to compile, Easy to execute. I got to know how can we use the anonymous structs here, as we don't need to declare the struct name but can use directly without just declaring it.
+
+****Thoughts:** There are so many things in Golang in which we can keep the code more readable and easy to understand. 
+
+
+### Day 21: May 21, 2021 (Solved the Exercises on the anonymous structs and the Arrays)
+
+**Today's Progress**: Arrays usages, anonymous structs exercises
+
+****Thoughts:** Understanding of the various struct usages and the Arrays when using the realtime is necessary, and I got to know the same here.
