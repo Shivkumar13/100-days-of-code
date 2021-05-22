@@ -141,3 +141,10 @@
 **Today's Progress**: Arrays usages, anonymous structs exercises
 
 ****Thoughts:** Understanding of the various struct usages and the Arrays when using the realtime is necessary, and I got to know the same here.
+
+
+### Day 22: May 22, 2021 (Ninja Exercises on structs)
+
+**Today's Progress**:  No particular new topic, but learned more on the structs.
+
+****Thoughts:** Practicing things makes you better.
