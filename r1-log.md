@@ -71,3 +71,8 @@ Housekeeping exercises in the Golang, using the Ease of programming approach to 
 ### R1D21
 Arrays usages, anonymous structs exercises from the Todd's course.
 
+### R1D22
+No particular new topic, but learned more on the structs.
+
+
+
