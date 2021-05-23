@@ -74,5 +74,6 @@ Arrays usages, anonymous structs exercises from the Todd's course.
 ### R1D22
 No particular new topic, but learned more on the structs.
 
-
+### R1D23
+Declared slixe and have  stored that slice in a variable first. Then passed in that variable to the function. So here we opened that slice in some way.
 
