@@ -148,3 +148,10 @@
 **Today's Progress**:  No particular new topic, but learned more on the structs.
 
 ****Thoughts:** Practicing things makes you better.
+
+### Day 23: May 23, 2021 (Learned about unfurling a Slice)
+
+**Today's Progress**: Declared slixe and have  stored that slice in a variable first. Then passed in that variable to the function. So here we opened that slice in some way.a 
+
+****Thoughts:** We can do the same in case of string's slice also, will do more on it.
+
