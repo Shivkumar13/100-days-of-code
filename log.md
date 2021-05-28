@@ -151,7 +151,12 @@
 
 ### Day 23: May 23, 2021 (Learned about unfurling a Slice)
 
-**Today's Progress**: Declared slixe and have  stored that slice in a variable first. Then passed in that variable to the function. So here we opened that slice in some way.a 
+**Today's Progress**: Declared slice and have  stored that slice in a variable first. Then passed in that variable to the function. So here we opened that slice in some way.a 
 
 ****Thoughts:** We can do the same in case of string's slice also, will do more on it.
 
+### Day 24: May 28, 2021 (Methods in Golang)
+
+ **Today's Progress**: Learned about Methods in Golang. Made use of the receiver in the Functions while Attaching a function(speak()) to a Value of TYPE serviceAgent. I hadn't tried that before and was not knowing its actual use. 
+ 
+ ****Thoughts:** I need to try different examples. I will try more exercises on this.
