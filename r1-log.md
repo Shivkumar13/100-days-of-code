@@ -77,3 +77,5 @@ No particular new topic, but learned more on the structs.
 ### R1D23
 Declared slixe and have  stored that slice in a variable first. Then passed in that variable to the function. So here we opened that slice in some way.
 
+### R1D24
+Learned about methods in Golang. Tried to make use of receivers in the function.
