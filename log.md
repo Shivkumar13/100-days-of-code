@@ -160,3 +160,11 @@
  **Today's Progress**: Learned about Methods in Golang. Made use of the receiver in the Functions while Attaching a function(speak()) to a Value of TYPE serviceAgent. I hadn't tried that before and was not knowing its actual use. 
  
  ****Thoughts:** I need to try different examples. I will try more exercises on this.
+ 
+ 
+### Day 25: May 29, 2021 (Anonymous Func)
+
+ **Today's Progress**: Learned about Anonymous func in Golang. We can use those func in the Main, but I tried to creating the same outside Main also but was not able to do it
+ 
+ ****Thoughts:** I think we can't write anonymous func outside the Main body. 
+ 
