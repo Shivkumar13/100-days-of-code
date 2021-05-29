@@ -79,3 +79,6 @@ Declared slixe and have  stored that slice in a variable first. Then passed in t
 
 ### R1D24
 Learned about methods in Golang. Tried to make use of receivers in the function.
+
+### R1D25
+Learned about Anonymous func in Golang. We can use those func in the Main, but I tried to creating the same outside Main also but was not able to do it.
