@@ -82,3 +82,6 @@ Learned about methods in Golang. Tried to make use of receivers in the function.
 
 ### R1D25
 Learned about Anonymous func in Golang. We can use those func in the Main, but I tried to creating the same outside Main also but was not able to do it.
+
+### R1D26
+Learned about func expressions in Golang. Got to know that function is also a TYPE in Golang. We can assign functions to variables.
