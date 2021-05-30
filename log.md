@@ -168,3 +168,8 @@
  
  ****Thoughts:** I think we can't write anonymous func outside the Main body. 
  
+### Day 26: May 30, 2021 (Func Express)
+
+ **Today's Progress**: Learned about func expressions in Golang. 
+ 
+ ****Thoughts:** Got to know that function is also a TYPE in Golang.  We can assign functions to variables.
